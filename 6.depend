@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1711316619 source:c:\users\fazak\documents\masadik felev\6\main.cpp
+	<iostream>
+	<graphics.h>
+	<cstdlib>
+	<ctime>
+	<string>
+	<stdio.h>
+	"tetris.h"
+
+1711316379 c:\users\fazak\documents\masadik felev\6\tetris.h
+
+1711316619 source:c:\users\fazak\documents\masadik felev\6\tetris.cpp
+	<iostream>
+	"tetris.h"
+
+1711320219 source:c:\users\fazak\documents\6\main.cpp
+	<iostream>
+	<graphics.h>
+	<cstdlib>
+	<ctime>
+	<string>
+	<stdio.h>
+	"tetris.h"
+
+1711319979 c:\users\fazak\documents\6\tetris.h
+
+1711316619 source:c:\users\fazak\documents\6\tetris.cpp
+	<iostream>
+	"tetris.h"
+
